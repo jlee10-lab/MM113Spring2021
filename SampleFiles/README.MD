@@ -9,7 +9,7 @@
 ![alt text](https://github.com/ireichert/MM113Fall2019/blob/master/SampleFiles/images/Bootcamp-Fork.png)
 
 
-Fork the following file on github in your account: ireichert/MM113Fall2019.git
+Fork the following file on github in your account: ireichert/MM113Spring2021.git
 
 Then, open the Terminal:
 ```
