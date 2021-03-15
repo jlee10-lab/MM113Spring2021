@@ -6,10 +6,10 @@
 ## PART I: SETUP & REVIEW
 
 ### 1. Fork and Clone the homework from GitHub
-![alt text](https://github.com/ireichert/MM113Fall2019/blob/master/SampleFiles/images/Bootcamp-Fork.png)
+![alt text](https://github.com/LovejoyMartin/MM113Spring2021/master/SampleFiles/images/Bootcamp-Fork.png)
 
 
-Fork the following file on github in your account: ireichert/MM113Spring2021.git
+Fork the following file on github in your account: LovejoyMartin/MM113Spring2021.git
 
 Then, open the Terminal:
 ```
